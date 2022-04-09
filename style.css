@@ -7,6 +7,15 @@ body {
     -moz-osx-font-smoothing: grayscale;
     font-size: large;
 }
+.bloc-lg p {
+    font-size: large;
+    padding-left: 80px;
+}
+
+.bgc-atomic-tangerine p {
+    font-size: 14px;
+    font-weight: 500;
+}
 
 .portfolio-row p {
     font-size: 15px;
@@ -18,6 +27,11 @@ body {
 
 .med-width-whitespace p {
     font-size: 12px;
+}
+
+.tc-white {
+    color: #ffffff!important;
+    font-weight: bold;
 }
 
 a,
@@ -787,9 +801,9 @@ h4 {
     background-color: #F3976C;
 }
 
-.tc-white {
+/* .tc-white {
     color: #F3976C!important;
-}
+} */
 
 .btn-atomic-tangerine {
     background: #F3976C;
