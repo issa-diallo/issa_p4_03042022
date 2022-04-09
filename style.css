@@ -5,6 +5,19 @@ body {
     overflow-x: hidden;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
+    font-size: large;
+}
+
+.portfolio-row p {
+    font-size: 15px;
+}
+
+.black-background p {
+    font-size: 15px;
+}
+
+.med-width-whitespace p {
+    font-size: 12px;
 }
 
 a,
